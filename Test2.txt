@@ -1,1 +1,2 @@
 This is file in branch2
+Added line2
